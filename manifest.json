@@ -1,0 +1,10 @@
+{
+  "name": "Escape All Markdown",
+  "author": {
+    "name": "Swishilicous",
+    "id": "474322346937810955"
+  },
+  "description": "Adds a command to escape all markdown in a message.",
+  "version": "1.0.0",
+  "id": "swish.escape-all-markdown"
+}

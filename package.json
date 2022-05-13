@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "unbound-types": "github:unbound-mod/types"
+  }
+}
